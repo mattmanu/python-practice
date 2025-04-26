@@ -23,6 +23,6 @@ def factorial_loop(number):
 # Testing the function
 
 # Example numbers to test
-test_number = 5
+test_number = 3
 
 print(f"Factorial of {test_number} is", factorial_loop(test_number))
