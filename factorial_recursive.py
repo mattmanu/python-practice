@@ -20,6 +20,6 @@ def factorial_recursive(number):
 # Testing the function
 
 # Example number to test
-test_number = 5
+test_number = 6
 
 print(f"Factorial of {test_number} is", factorial_recursive(test_number))
